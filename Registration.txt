@@ -1,0 +1,1 @@
+Registration tested for user name with password
